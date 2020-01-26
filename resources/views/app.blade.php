@@ -7,7 +7,7 @@
 
 	@yield('aimeos_header')
 
-	<title>Aimeos on Laravel</title>
+	<title>Produtos organicos da Associação Agroecológica de Teresópolis</title>
 
 	@yield('aimeos_styles')
 
